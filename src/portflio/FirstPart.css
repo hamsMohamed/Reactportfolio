@@ -1,0 +1,17 @@
+.first{
+    background-image: url("/public/img/girl.png");
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 10%;
+    padding-top: 15%;
+}
+.place{
+    margin-left: 30px;
+}
+.pos{
+    margin-left: 100px;
+    margin-top: 20px;
+}
